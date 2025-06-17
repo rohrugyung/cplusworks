@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A57F8418-75CE-4332-ABD1-B60F527BEEB6}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A57F8418-75CE-4332-ABD1-B60F527BEEB6}|basic\\basic.vcxproj|solutionrelative:basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A57F8418-75CE-4332-ABD1-B60F527BEEB6}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A57F8418-75CE-4332-ABD1-B60F527BEEB6}|basic\\basic.vcxproj|solutionrelative:basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "inputData2.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp",
+              "RelativeDocumentMoniker": "basic\\inputData2.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp*",
+              "RelativeToolTip": "basic\\inputData2.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T00:26:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "inputData.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp",
               "RelativeDocumentMoniker": "basic\\inputData.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp*",
-              "RelativeToolTip": "basic\\inputData.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp",
+              "RelativeToolTip": "basic\\inputData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-16T23:52:22.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "constantEx.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\constantEx.cpp",
               "RelativeDocumentMoniker": "basic\\constantEx.cpp",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "basic\\constantEx.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-16T23:39:31.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T23:39:31.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "operatorEx.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\operatorEx.cpp",
               "RelativeDocumentMoniker": "basic\\operatorEx.cpp",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "basic\\operatorEx.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-16T22:32:23.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T22:32:23.866Z"
             }
           ]
         }

@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "basic\\inputData.cpp",
               "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp",
               "RelativeToolTip": "basic\\inputData.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA1wA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-16T23:52:22.385Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "basic\\constantEx.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-16T23:39:31.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T23:39:31.285Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "basic\\operatorEx.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-16T22:32:23.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T22:32:23.866Z"
             }
           ]
         }
