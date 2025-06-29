@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|C:\\c\u002B\u002Bworks\\classes\\classes\\classReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|solutionrelative:classes\\classReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|C:\\c\u002B\u002Bworks\\classes\\classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|solutionrelative:classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|C:\\c\u002B\u002Bworks\\classes\\classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|solutionrelative:classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AA30C1D-9D07-45AF-AAEC-571163EAC86E}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "classReference.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\classes\\classes\\classReference.cpp",
-              "RelativeDocumentMoniker": "classes\\classReference.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\classes\\classes\\classReference.cpp*",
-              "RelativeToolTip": "classes\\classReference.cpp*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwCwAAAABAAAAAAAAAA==",
+              "Title": "newDeleteEx2.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEx2.cpp",
+              "RelativeDocumentMoniker": "classes\\newDeleteEx2.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEx2.cpp",
+              "RelativeToolTip": "classes\\newDeleteEx2.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T11:22:02.764Z",
+              "WhenOpened": "2025-06-25T04:03:18.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "classDog.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\classes\\classes\\classDog.cpp",
-              "RelativeDocumentMoniker": "classes\\classDog.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\classes\\classes\\classDog.cpp",
-              "RelativeToolTip": "classes\\classDog.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T08:52:00.867Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "memberService.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\classes\\classes\\memberService.cpp",
-              "RelativeDocumentMoniker": "classes\\memberService.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\classes\\classes\\memberService.cpp",
-              "RelativeToolTip": "classes\\memberService.cpp",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCwAAAASAAAAAAAAAA==",
+              "Title": "newDeleteEx.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEx.cpp",
+              "RelativeDocumentMoniker": "classes\\newDeleteEx.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\classes\\classes\\newDeleteEx.cpp",
+              "RelativeToolTip": "classes\\newDeleteEx.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T08:40:19.765Z",
+              "WhenOpened": "2025-06-25T03:49:43.343Z",
               "EditorCaption": ""
             }
           ]
