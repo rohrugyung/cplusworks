@@ -106,7 +106,7 @@ void BankAccount::displayInfo() {
 
 int main() {
 	//동적 객체 생성(new ~ delete)
-	BankAccount* account1 = new BankAccount(1001, "이우주", 10000);
+	/*BankAccount* account1 = new BankAccount(1001, "이우주", 10000);
 	BankAccount* account2 = new BankAccount(1002, "정은하", 30000);
 	BankAccount* account3 = new BankAccount(1003, "한강", 20000);
 
@@ -128,13 +128,36 @@ int main() {
 	
 	for (int i = 0; i < size(accounts); i++) {
 		delete accounts[i];  //메모리 해제
-	}
+	}*/
 
-
-	
 
 	//벡터 객체 저장
+	vector<BankAccount> accounts;
 
+	//계좌 추가
+	accounts.push_back(BankAccount(1001, "이우주", 10000));
+	accounts.push_back(BankAccount(1002, "정은하", 30000));
+	accounts.push_back(BankAccount(1003, "한강", 20000));
+
+	//입금
+	accounts[0].deposit(5000);
+	accounts[1].deposit(10000);
+
+	//출금
+	accounts[1].withdraw(20000);
+	accounts[1].withdraw(50000);
+
+	//인덱싱 조회
+	//for (int i = 0; i < accounts.size(); i++) {
+	//	accounts[i].displayInfo();
+	//	accounts[i].getTransactionHistory();
+	//}
+	
+	//범위 기반 for(자료형 변수  : 벡터(배열)이름){}
+	for (BankAccount account : accounts) {
+		account.displayInfo();
+		account.getTransactionHistory();
+	}
 
 	return 0;
 }
