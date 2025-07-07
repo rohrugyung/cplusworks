@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\multiinherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\multiinherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\statement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0F5061C-28C9-459E-A1BD-AE91F2CA8A96}|inheritance\\inheritance.vcxproj|C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\polyMorphismEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "multiinherit.cpp",
+              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\multiinherit.cpp",
+              "RelativeDocumentMoniker": "inheritance\\multiinherit.cpp",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\multiinherit.cpp*",
+              "RelativeToolTip": "inheritance\\multiinherit.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T07:36:51.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "statement2.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement2.cpp",
               "RelativeDocumentMoniker": "inheritance\\statement2.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement2.cpp*",
-              "RelativeToolTip": "inheritance\\statement2.cpp*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement2.cpp",
+              "RelativeToolTip": "inheritance\\statement2.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-05T07:22:29.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "autoDataType.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\autoDataType.cpp",
               "RelativeDocumentMoniker": "inheritance\\autoDataType.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "inheritance\\autoDataType.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAA0wAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-05T07:11:17.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T07:11:17.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "polyMorphismEx1.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\polyMorphismEx1.cpp",
               "RelativeDocumentMoniker": "inheritance\\polyMorphismEx1.cpp",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "inheritance\\polyMorphismEx1.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAA0wBYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-05T06:53:38.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T06:53:38.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "operatorEx1.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\operatorEx1.cpp",
               "RelativeDocumentMoniker": "inheritance\\operatorEx1.cpp",
@@ -85,8 +100,7 @@
               "RelativeToolTip": "inheritance\\operatorEx1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-05T06:28:35.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T06:28:35.628Z"
             },
             {
               "$type": "Document",
@@ -96,14 +110,14 @@
               "RelativeDocumentMoniker": "inheritance\\statement.cpp",
               "ToolTip": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\statement.cpp",
               "RelativeToolTip": "inheritance\\statement.cpp",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAuwF8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-05T05:53:13.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "studentPerson2.cpp",
               "DocumentMoniker": "C:\\c\u002B\u002Bworks\\inheritance\\inheritance\\studentPerson2.cpp",
               "RelativeDocumentMoniker": "inheritance\\studentPerson2.cpp",
@@ -111,8 +125,7 @@
               "RelativeToolTip": "inheritance\\studentPerson2.cpp",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T08:00:06.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T08:00:06.062Z"
             }
           ]
         }

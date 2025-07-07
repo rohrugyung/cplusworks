@@ -69,18 +69,28 @@ public:
 int main() {
 
 	//다형성으로 인스턴스 생성
+	//상위(부모) 클래스로 인스턴스 생성
 	Drink* coffee = new NonAlcohol("커피", 2500, 4);
 	Drink* tea = new NonAlcohol("녹차", 3000, 3);
+	Drink* soju = new Alcohol("소주", 4000, 2, 15.1f);
 
-	Drink* drinks[2] = { coffee, tea };
+	Drink* drinks[3] = { coffee, tea, soju };
 
 	cout << "======= 매출 전표 =======\n";
 	Drink::printTitle();
 	for (auto drink : drinks)
 		drink->printData();
 
+	//금액 계산
+	int total = 0;
+	for (auto drink : drinks)
+		total += drink->calcPrice();
+
+	cout << "********** 합계금액 " << total << "원 *********\n";
+
 	delete coffee;
 	delete tea;
+	delete soju;
 
 	return 0;
 }
